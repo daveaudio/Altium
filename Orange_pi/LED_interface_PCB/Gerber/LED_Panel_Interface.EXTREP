@@ -1,0 +1,19 @@
+------------------------------------------------------------------------------------------
+Gerber File Extension Report For: LED_Panel_Interface.GBR   18/02/2017  15:51:28
+------------------------------------------------------------------------------------------
+
+
+------------------------------------------------------------------------------------------
+Layer Extension     Layer Description                      
+------------------------------------------------------------------------------------------
+.GTL                Top Layer                               
+.G1                 Signal Layer 1                          
+.G2                 Signal Layer 2                          
+.GBL                Bottom Layer                            
+.GTO                Top Overlay                             
+.GTS                Top Solder                              
+.GBS                Bottom Solder                           
+.GBO                Bottom Overlay                          
+.GM2                Mechanical 2 - Board outline                            
+.GM32               Mechanical 32 - PCB information                           
+------------------------------------------------------------------------------------------

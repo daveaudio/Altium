@@ -1,0 +1,43 @@
+Project			: LED_Panel_Interface
+
+Designer 		: Davaudio
+
+email			: daveaudio@hotmail.com
+
+Date			: 14 Feburary 2017
+
+Design stage		: Prototype A
+PCB version		: DLG20170214
+
+PCB type		: FR4
+Number of Layers 	: 4
+
+Board thiCkness		: 1.6mm
+
+copper weight		: 1oz
+inner copper weight	: 0.5oz
+
+PCB width		: 97mm
+PCB hight		: 80.5mm	
+
+Panelised		: No
+
+PCB holes		: 517
+Plated thru holes	: 517
+Non-plated thru holes	: 0
+Slot holes		: 0
+Square holes		: 0
+
+Measurement tolerances	: normal
+
+PCB colour		: Green
+Solder mask colour	: Green
+Silk screen colour	: White
+
+Solder finish		: HASL (Hot Air Solder Leveling)
+
+PCB electrical testing	: Not required
+
+
+
+
